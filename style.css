@@ -1,0 +1,123 @@
+/* CSS Variables */
+:root {
+  /* these can be used anywhere in style.css*/
+  --primary: #ffffff; /*#ddd;*/
+  --dark: #333;
+  --light: #fff; /*text*/
+  /* --shadow: 0 1px 5px rgba(104,104,104,0.8); */
+  --shadow: 0 0px 0px rgba(104,104,104,0.8);
+}
+
+html {
+  box-sizing: border-box; /* padding does not affect width of element*/
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--dark);
+}
+
+body {
+  max-width: 1024px;
+  background: #ffffff; /* #ccc*/
+  margin: 0 auto;
+  padding: 0 30px;
+  line-height: 1.4;
+}
+
+.wrapper{
+  display: grid;
+  grid-gap: 20px;
+}
+
+/* Navigation */
+.main-nav ul {
+  float: right;
+  padding: 0;
+  list-style: none; /*no bullets*/
+  text-align: right;
+}
+
+.main-nav ul li {
+  display: inline-block;
+  margin-right: 0;
+}
+
+.main-nav a {
+  background: var(--primary);
+  display: block;
+  text-decoration: none;
+  padding: 0 0.8rem;
+  text-align: center;
+  color: var(--dark);
+  text-transform: lowercase;
+  /* box-shadow: var(--shadow); */
+}
+
+/* Welcome */
+.welcome {
+  text-align: center;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.divider {
+  border-bottom: 1px dotted #ccc;
+}
+
+/* Boxes */
+
+.boxes a:link, a:visited {
+  color: var(--dark);
+  text-align: center;
+  text-decoration: none;
+}
+
+.boxes {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.box {
+  background-color: var(--primary);
+  text-align: center;
+  padding: 1rem;
+  box-shadow: var(--shadow);
+}
+
+.box img {
+  width: 100%;
+  height: auto;
+}
+
+/* Footer */
+
+footer {
+  margin-top: 2rem;
+  background: var(--light);
+  color: var(--dark);
+  text-align: center;
+}
+
+/* Screen Size Behavior */
+@media(max-width: 600px) {
+
+  /* .main-nav ul {
+    grid-template-columns: 1fr;
+  } */
+
+  body {
+    padding: 0 5px;
+  }
+
+  .boxes {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* This is just nice background picture alignment */
+/* .welcome {
+  background: url(img/showcase.jpg);
+  background-size: cover;
+  background-position: center;
+} */
