@@ -28,6 +28,11 @@ body {
 }
 
 /* Navigation */
+.main-nav {
+  /* float objects do not influence their container's height.
+  the floating list in here should, and this ensures it. */
+  overflow: hidden;
+}
 .main-nav ul {
   float: right;
   padding: 0;
