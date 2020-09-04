@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.16/iframeResizer.min.js"></script>
+
+    <link rel="stylesheet" href="../../style.css">
+    <title>Weather Shortcut</title>
+  </head>
+  <body>
+
+    <!-- Top Navigation -->
+    <nav class="main-nav">
+      <ul>
+        <li><a href="https://martenthompson.com">Home</a></li>
+        <li><a href="../about/index.html">About</a></li>
+        <li><a href="../contact/index.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <!-- Body Text -->
+    <div>
+      <h1>Making a custom iOS shortcut</h1>
+      <p>
+        Coding your own iOS shortcut is a great gateway to beginning coding.
+        The process is intuitive and clean, and it exposes you to concepts used throughout programming.
+        In this tutorial, we'll make a shortcut that returns customizable weather information; doing so will teach
+
+        <ul>
+          <li> storing values </li>
+          <li> calling other shortcuts </li>
+          <li> calling external APIs </li>
+          <li> looping and if/else statements </li>
+          <li> dictionaries </li>
+        </ul>
+
+        If you want to learn about any of those concepts, specific to shortcuts or in general, keep reading!
+      </p>
+
+      <h2>End product</h2>
+      <p>
+        By following this article, you'll make a shortcut that displays weather information.
+        Furthermore, you'll be able to customize the information it displays as well as the length of the forecast.
+        <br><br>
+        My motivation for making it was simple: as of spring 2020, there are no (free) iOS widgets that display a 15 hour temperature forecast with hourly rain predictions.
+        You'll be able to change the length and contents (maybe you want 24 hours with temperature, wind, and rain), but I wanted to know at breakfast if I was going to get rained on biking to or from campus that day.
+        <br><br>
+        Here's what that looks like for me
+
+        TODO
+      </p>
+
+      <h2>How do I store values in shortcuts?</h2>
+      <p>
+        We'll use location and forecast information throughout the shortcut; storing that data in variables makes our program clean and flexible.
+
+        First, let's store text in a variable. We're using the <a href="https://openweathermap.org/api" target="_blank">OpenWeather API</a> to retreive forcast information and need to provide an access key.
+
+        <br><br>
+        image Here
+        <br><br>
+        Now, instead of typing that gross alphabet soup everytime we need it, we can just type OWAPIKey (make monospace?).
+        Also, if our alphabet soup were to change in the future, we would just need to update the above command instead of hunting for every instance of the key throughout our program.
+      </p>
+
+      <h2>How do I call an external API from a shortcut?</h2>
+      <p>
+
+      </p>
+    </div>
+
+
+  </body>
+</html>
