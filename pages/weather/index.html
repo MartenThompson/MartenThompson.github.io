@@ -45,24 +45,38 @@
         By following this article, you'll make a shortcut that displays weather information.
         Furthermore, you'll be able to customize the information it displays as well as the length of the forecast.
         <br><br>
-        My motivation for making it was simple: as of spring 2020, there are no (free) iOS widgets that display a 15 hour temperature forecast with hourly rain predictions.
+        My motivation for making it was simple: as of spring 2020, there were no (free) iOS widgets that display a 15 hour temperature forecast with hourly rain predictions.
         You'll be able to change the length and contents (maybe you want 24 hours with temperature, wind, and rain), but I wanted to know at breakfast if I was going to get rained on biking to or from campus that day.
         <br><br>
         Here's what that looks like for me
 
-        TODO
+        <figure>
+        <img src="./figs/notification.jpg" alt="ultimate notification you will receive" class="center_img">
+        <figcaption>Fig.1 - Notifcation produced by this shortcut.</figcaption>
+        </figure>
       </p>
 
       <h2>How do I store values in shortcuts?</h2>
       <p>
-        We'll use location and forecast information throughout the shortcut; storing that data in variables makes our program clean and flexible.
+        We'll use location and forecast information throughout the shortcut;
+        storing that data in variables makes our program clean and flexible.
 
-        First, let's store text in a variable. We're using the <a href="https://openweathermap.org/api" target="_blank">OpenWeather API</a> to retreive forcast information and need to provide an access key.
+        First, let's store text in a variable. We're using the
+        <a href="https://openweathermap.org/api" target="_blank">OpenWeather API</a>
+        to retreive forcast information; it provides all the information we need
+        and access starts at the reasonable price of free. Create an account, and you'll
+        be given an access key to call their API services (to view, go to Profile > API Keys).
+        You'll notice your API key is not the most friendly thing to type out.
+        For convenience, we'll store this gross string in a variable named OWAPIKey.
+        Since your key won't change, copy it into a TEXT action and pass it to a VARIABLES action (see Fig.2).
 
-        <br><br>
-        image Here
-        <br><br>
-        Now, instead of typing that gross alphabet soup everytime we need it, we can just type OWAPIKey (make monospace?).
+        <figure>
+        <img src="./figs/fig2.jpg" alt="figure 2" class="center_img">
+        <figcaption>Fig.2 - Getting current location, storing API key as a variable, and calling
+        an external API.</figcaption>
+        </figure>
+
+        Now, instead of typing that gross alphabet soup everytime we need it, we can just type OWAPIKey.
         Also, if our alphabet soup were to change in the future, we would just need to update the above command instead of hunting for every instance of the key throughout our program.
       </p>
 
@@ -71,6 +85,10 @@
 
       </p>
 
+      <h2>How do I call another shortcut from a shortcut?</h2>
+      <p>
+
+      </p>
       <div class="divider">
       </div>
       <!-- Footer -->
