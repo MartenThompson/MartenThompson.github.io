@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="contact.svg"
+   inkscape:export-filename="/Users/marten/Git/MartenThompson.github.io/svg/contact.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1476306"
+     inkscape:cx="248.33775"
+     inkscape:cy="358.56486"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="217.97581"
+       y="233.25825"
+       width="152.02003"
+       height="81.238217"
+       id="rect69370" />
+    <rect
+       x="332.19192"
+       y="363.56113"
+       width="434.34294"
+       height="40.216939"
+       id="rect31544" />
+    <rect
+       x="349.08303"
+       y="386.88696"
+       width="178.56321"
+       height="62.738425"
+       id="rect23304" />
+    <rect
+       x="158.66003"
+       y="386.07273"
+       width="231.3792"
+       height="104.45118"
+       id="rect612" />
+    <rect
+       x="158.66003"
+       y="386.07272"
+       width="231.3792"
+       height="104.45118"
+       id="rect612-3" />
+    <rect
+       x="332.19193"
+       y="363.56113"
+       width="434.34293"
+       height="40.216938"
+       id="rect31544-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-28.669091,-5.094111)"
+       id="text610"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect612);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="158.66016"
+         y="401.88596"
+         id="tspan121317"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan121315">you are here:</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-28.409332,2.8127356)"
+       id="text610-0"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect612-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="158.66016"
+         y="401.88596"
+         id="tspan121321"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan121319">find me here:</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-33.378296,0.88020476)"
+       id="text31542"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect31544);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="332.19141"
+         y="379.37424"
+         id="tspan121325"><tspan
+           style="font-family:Courier;-inkscape-font-specification:Courier"
+           id="tspan121323">MartenThompson.com</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.6585039,8.3898613)"
+       id="text31542-9"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect31544-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="332.19141"
+         y="379.37424"
+         id="tspan121329"><tspan
+           style="font-family:Courier;-inkscape-font-specification:Courier"
+           id="tspan121327">@gmail</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.42102973,0,-4.1794654,163.10936)"
+       id="text69368"
+       style="font-style:normal;font-weight:normal;font-size:13.3869px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect69370);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="217.97656"
+         y="245.47109"
+         id="tspan121333"><tspan
+           style="font-family:STIXSizeFourSym;-inkscape-font-specification:STIXSizeFourSym"
+           id="tspan121331">}</tspan></tspan></text>
+  </g>
+</svg>
