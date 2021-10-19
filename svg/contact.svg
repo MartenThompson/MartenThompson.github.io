@@ -10,8 +10,8 @@
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    sodipodi:docname="contact.svg"
    inkscape:export-filename="/Users/marten/Git/MartenThompson.github.io/svg/contact.png"
-   inkscape:export-xdpi="500"
-   inkscape:export-ydpi="500"
+   inkscape:export-xdpi="105.03"
+   inkscape:export-ydpi="105.03"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -85,9 +85,9 @@
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect612);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="158.66016"
          y="401.88596"
-         id="tspan121317"><tspan
+         id="tspan121357"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan121315">you are here:</tspan></tspan></text>
+           id="tspan121355">you are here:</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-28.409332,2.8127356)"
@@ -95,9 +95,9 @@
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect612-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="158.66016"
          y="401.88596"
-         id="tspan121321"><tspan
+         id="tspan121361"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan121319">find me here:</tspan></tspan></text>
+           id="tspan121359">find me here:</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-33.378296,0.88020476)"
@@ -105,9 +105,9 @@
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect31544);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="332.19141"
          y="379.37424"
-         id="tspan121325"><tspan
+         id="tspan121365"><tspan
            style="font-family:Courier;-inkscape-font-specification:Courier"
-           id="tspan121323">MartenThompson.com</tspan></tspan></text>
+           id="tspan121363">MartenThompson.com</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-2.6585039,8.3898613)"
@@ -115,9 +115,9 @@
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect31544-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="332.19141"
          y="379.37424"
-         id="tspan121329"><tspan
+         id="tspan121369"><tspan
            style="font-family:Courier;-inkscape-font-specification:Courier"
-           id="tspan121327">@gmail</tspan></tspan></text>
+           id="tspan121367">@gmail</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.42102973,0,-4.1794654,163.10936)"
@@ -125,8 +125,8 @@
        style="font-style:normal;font-weight:normal;font-size:13.3869px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect69370);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="217.97656"
          y="245.47109"
-         id="tspan121333"><tspan
+         id="tspan121373"><tspan
            style="font-family:STIXSizeFourSym;-inkscape-font-specification:STIXSizeFourSym"
-           id="tspan121331">}</tspan></tspan></text>
+           id="tspan121371">}</tspan></tspan></text>
   </g>
 </svg>
